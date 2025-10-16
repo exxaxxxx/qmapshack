@@ -9168,13 +9168,13 @@ línia %2, columna %3:
     <name>IAbout</name>
     <message>
         <location filename="../IAbout.ui" line="6"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="209"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="205"/>
         <source>About....</source>
         <translation>Quant a....</translation>
     </message>
     <message>
         <location filename="../IAbout.ui" line="22"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="210"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="206"/>
         <source>&lt;b&gt;QMapShack&lt;/b&gt;, Version</source>
         <translation>&lt;b&gt;QMapShack&lt;/b&gt;, Versió</translation>
     </message>
@@ -9184,35 +9184,35 @@ línia %2, columna %3:
         <location filename="../IAbout.ui" line="94"/>
         <location filename="../IAbout.ui" line="108"/>
         <location filename="../IAbout.ui" line="122"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="207"/>
         <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="211"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="213"/>
         <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="215"/>
         <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="217"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="219"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="221"/>
         <source>TextLabel</source>
         <translation>EtiquetaDeText</translation>
     </message>
     <message>
         <location filename="../IAbout.ui" line="73"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="214"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="210"/>
         <source>Qt</source>
         <translation>Qt</translation>
     </message>
     <message>
         <location filename="../IAbout.ui" line="87"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="216"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="212"/>
         <source>GDAL</source>
         <translation>GDAL</translation>
     </message>
     <message>
         <location filename="../IAbout.ui" line="101"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="218"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="214"/>
         <source>Proj4</source>
         <translation>Proj4</translation>
     </message>
     <message>
         <location filename="../IAbout.ui" line="115"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="220"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="216"/>
         <source>Routino</source>
         <translation>Routino</translation>
     </message>
@@ -9234,13 +9234,13 @@ línia %2, columna %3:
     </message>
     <message>
         <location filename="../IAbout.ui" line="138"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="222"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="218"/>
         <source>&lt;b&gt;Contributors to the code:&lt;/b&gt;</source>
         <translation>&lt;b&gt;Col·laboradors en la codificació:&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../IAbout.ui" line="151"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="223"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="219"/>
         <source>-</source>
         <translation>-</translation>
     </message>
@@ -9290,13 +9290,13 @@ línia %2, columna %3:
     </message>
     <message>
         <location filename="../IAbout.ui" line="168"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="224"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="220"/>
         <source>This software is licensed under GPL3 or any later version</source>
         <translation>Aquest programari es distribueix sota llicència GPL3 o qualsevol altre versió posterior</translation>
     </message>
     <message>
         <location filename="../IAbout.ui" line="175"/>
-        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="225"/>
+        <location filename="../../../build/src/qmapshack/ui_IAbout.h" line="221"/>
         <source>© 2017 Oliver Eichler (oliver.eichler@gmx.de)</source>
         <translation>© 2017 Oliver Eichler (oliver.eichler@gmx.de)</translation>
     </message>
@@ -9602,28 +9602,29 @@ Si sols voleu mantenir una part suprimiu els punts, o marqueu això per a crear 
     <name>IDemPathSetup</name>
     <message>
         <location filename="../dem/IDemPathSetup.ui" line="14"/>
-        <location filename="../../../build/src/qmapshack/ui_IDemPathSetup.h" line="135"/>
+        <location filename="../../../build/src/qmapshack/ui_IDemPathSetup.h" line="142"/>
         <source>Setup DEM file paths</source>
         <translation>Configurar els camins als fitxers DEM</translation>
     </message>
     <message>
         <location filename="../dem/IDemPathSetup.ui" line="31"/>
         <location filename="../dem/IDemPathSetup.ui" line="51"/>
-        <location filename="../../../build/src/qmapshack/ui_IDemPathSetup.h" line="136"/>
-        <location filename="../../../build/src/qmapshack/ui_IDemPathSetup.h" line="137"/>
+        <location filename="../../../build/src/qmapshack/ui_IDemPathSetup.h" line="143"/>
+        <location filename="../../../build/src/qmapshack/ui_IDemPathSetup.h" line="144"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
         <location filename="../dem/IDemPathSetup.ui" line="112"/>
-        <location filename="../../../build/src/qmapshack/ui_IDemPathSetup.h" line="139"/>
+        <location filename="../../../build/src/qmapshack/ui_IDemPathSetup.h" line="146"/>
         <source>-</source>
         <translation>-</translation>
     </message>
     <message>
+        <location filename="../../../build/src/qmapshack/ui_IDemPathSetup.h" line="147"/>
         <source>Help! I want DEMs!
 I don&apos;t want to read the documentation!</source>
-        <translation type="vanished">Ajuda! Necessito DEMs!
+        <translation>Ajuda! Necessito DEMs!
 No vull llegir tota la documentació!</translation>
     </message>
 </context>
@@ -13860,19 +13861,19 @@ Consell:
         <translation>Tallar el Track...</translation>
     </message>
     <message>
-        <location filename="../plot/IPlot.cpp" line="508"/>
+        <location filename="../plot/IPlot.cpp" line="509"/>
         <source>Hold CTRL key for vertical zoom, only.
 Hold ALT key for horizontal zoom, only.</source>
         <translation>Mantenir premuda la tecla CTRL només per zoom vertical.
 Mantenir premuda la tecla ALT només per zoom horitzontal.</translation>
     </message>
     <message>
-        <location filename="../plot/IPlot.cpp" line="653"/>
+        <location filename="../plot/IPlot.cpp" line="654"/>
         <source>No or bad data.</source>
         <translation>No hi ha dades o són incorrectes.</translation>
     </message>
     <message>
-        <location filename="../plot/IPlot.cpp" line="1265"/>
+        <location filename="../plot/IPlot.cpp" line="1266"/>
         <source>Select output file</source>
         <translation>Selecciona el fitter de sortida</translation>
     </message>
