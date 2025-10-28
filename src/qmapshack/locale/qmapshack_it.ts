@@ -9229,7 +9229,7 @@ linea %2, colonna %3:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1357"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1358"/>
         <source>More...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9712,7 +9712,7 @@ linea %2, colonna %3:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1364"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1365"/>
         <source>Clear List</source>
         <translation type="unfinished"></translation>
     </message>

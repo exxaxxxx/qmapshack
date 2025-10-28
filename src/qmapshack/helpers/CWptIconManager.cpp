@@ -1354,6 +1354,7 @@ QString CWptIconManager::selectWptIcon(QWidget* parent) {
   QPointer<QMenu> menu = getWptIconMenu(parent);
 
   // add an action that summons the wayoint icon dialog
+  menu->addSeparator();
   QAction* more = menu->addAction(QIcon(":/icons/32x32/SetupWptSym.png"), tr("More..."));
   connect(more, &QAction::triggered, this, [&icon, this](bool) {
     CWptIconDialog dlg(&CMainWindow::self());
@@ -1381,6 +1382,9 @@ QString CWptIconManager::selectWptIcon(QWidget* parent) {
     SETTINGS;
     QStringList lastIcons = cfg.value("Icons/lastIcons", {"Waypoint"}).toStringList();
     if (!lastIcons.contains(icon)) {
+      lastIcons.push_front(icon);
+    } else {
+      lastIcons.removeAll(icon);
       lastIcons.push_front(icon);
     }
     if (lastIcons.size() > 10) {

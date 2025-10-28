@@ -9242,14 +9242,14 @@ Zeile %2, Spalte %3:
         <translation>Golfplatz</translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1357"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1358"/>
         <source>More...</source>
         <translation>Mehr...</translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1364"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1365"/>
         <source>Clear List</source>
-        <translation></translation>
+        <translation type="unfinished">Liste löschen</translation>
     </message>
     <message>
         <source>Clear History</source>
