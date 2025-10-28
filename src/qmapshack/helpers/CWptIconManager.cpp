@@ -521,7 +521,6 @@ void CWptIconManager::init() {
       {tr("markers")},
       {tr("waypoint"), tr("dot")}
     },
-
     {
       {16,16}, "Anchor", "://icons/waypoints/32x32/Anchor.png",
       {tr("marine")},
@@ -674,7 +673,6 @@ void CWptIconManager::init() {
       {tr("cycling")},
       {tr("first aid")}
     },
-
     {
       {16,16}, "Food", "://icons/waypoints/32x32/Food.png",
       {tr("cycling")},
@@ -775,7 +773,6 @@ void CWptIconManager::init() {
       {tr("cycling")},
       {tr("end")}
     },
-
     {
       {16,16}, "Bank", "://icons/poi/SJJB/png/money_bank.n.32.png",
       {tr("poi")},
@@ -1364,7 +1361,7 @@ QString CWptIconManager::selectWptIcon(QWidget* parent) {
     dlg.exec();
   });
 
-  QAction* clear = menu->addAction(QIcon(":/icons/32x32/Cancel.png"), tr("Clear History"));
+  QAction* clear = menu->addAction(QIcon(":/icons/32x32/Cancel.png"), tr("Clear List"));
   connect(clear, &QAction::triggered, this, [](bool) {
     SETTINGS;
     cfg.setValue("Icons/lastIcons", {"Waypoint"});
