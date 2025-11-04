@@ -772,22 +772,22 @@ K vyřešení tohoto střetu můžete vytvořit a uložit klona, vynutit svoji v
 <context>
     <name>CDeviceAccessKMtp</name>
     <message>
-        <location filename="../device/CDeviceAccessKMtp.cpp" line="88"/>
+        <location filename="../device/CDeviceAccessKMtp.cpp" line="89"/>
         <source>Send to Devices...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../device/CDeviceAccessKMtp.cpp" line="89"/>
+        <location filename="../device/CDeviceAccessKMtp.cpp" line="90"/>
         <source>Failed to send file &quot;%1&quot; to device.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../device/CDeviceAccessKMtp.cpp" line="102"/>
+        <location filename="../device/CDeviceAccessKMtp.cpp" line="103"/>
         <source>Delete from Devices...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../device/CDeviceAccessKMtp.cpp" line="103"/>
+        <location filename="../device/CDeviceAccessKMtp.cpp" line="104"/>
         <source>Failed to delete file &quot;%1&quot; from device. Reason: %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -822,13 +822,13 @@ K vyřešení tohoto střetu můžete vytvořit a uložit klona, vynutit svoji v
 <context>
     <name>CDeviceGarminArchiveMtp</name>
     <message>
-        <location filename="../device/CDeviceGarminArchiveMtp.cpp" line="30"/>
-        <location filename="../device/CDeviceGarminArchiveMtp.cpp" line="74"/>
+        <location filename="../device/CDeviceGarminArchiveMtp.cpp" line="31"/>
+        <location filename="../device/CDeviceGarminArchiveMtp.cpp" line="75"/>
         <source>Archive - expand to load</source>
         <translation type="unfinished">Archiv - Rozbalit k nahrání</translation>
     </message>
     <message>
-        <location filename="../device/CDeviceGarminArchiveMtp.cpp" line="41"/>
+        <location filename="../device/CDeviceGarminArchiveMtp.cpp" line="42"/>
         <source>Archive - loaded</source>
         <translation type="unfinished">Archiv - Nahráno</translation>
     </message>
@@ -836,7 +836,7 @@ K vyřešení tohoto střetu můžete vytvořit a uložit klona, vynutit svoji v
 <context>
     <name>CDeviceGenericMtp</name>
     <message>
-        <location filename="../device/CDeviceGenericMtp.cpp" line="47"/>
+        <location filename="../device/CDeviceGenericMtp.cpp" line="48"/>
         <source>Unknown MTP</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1598,28 +1598,28 @@ You can modify both parameters to customize the behavior of the filter. For the 
 <context>
     <name>CGisItemTrk</name>
     <message>
-        <location filename="../gis/tnv/serialization.cpp" line="167"/>
-        <location filename="../gis/tnv/serialization.cpp" line="293"/>
-        <location filename="../gis/tnv/serialization.cpp" line="317"/>
-        <location filename="../gis/tnv/serialization.cpp" line="327"/>
-        <location filename="../gis/tnv/serialization.cpp" line="355"/>
+        <location filename="../gis/tnv/serialization.cpp" line="166"/>
+        <location filename="../gis/tnv/serialization.cpp" line="292"/>
+        <location filename="../gis/tnv/serialization.cpp" line="316"/>
+        <location filename="../gis/tnv/serialization.cpp" line="326"/>
+        <location filename="../gis/tnv/serialization.cpp" line="354"/>
         <source>Error...</source>
         <translation>Chyba...</translation>
     </message>
     <message>
-        <location filename="../gis/tnv/serialization.cpp" line="167"/>
-        <location filename="../gis/tnv/serialization.cpp" line="294"/>
+        <location filename="../gis/tnv/serialization.cpp" line="166"/>
+        <location filename="../gis/tnv/serialization.cpp" line="293"/>
         <source>Failed to open %1.</source>
         <translation>Nepodařilo se otevřít %1.</translation>
     </message>
     <message>
-        <location filename="../gis/tnv/serialization.cpp" line="318"/>
-        <location filename="../gis/tnv/serialization.cpp" line="328"/>
+        <location filename="../gis/tnv/serialization.cpp" line="317"/>
+        <location filename="../gis/tnv/serialization.cpp" line="327"/>
         <source>Only support lon/lat WGS 84 format.</source>
         <translation>Jako formát je podporován jen lon/lat WGS 84.</translation>
     </message>
     <message>
-        <location filename="../gis/tnv/serialization.cpp" line="355"/>
+        <location filename="../gis/tnv/serialization.cpp" line="354"/>
         <source>Failed to read data.</source>
         <translation>Nepodařilo se přečíst data.</translation>
     </message>
@@ -3072,17 +3072,17 @@ If you choose &apos;No&apos; the respective last used waypoint icon is applied.<
 <context>
     <name>CGpxProject</name>
     <message>
-        <location filename="../gis/gpx/CGpxProject.cpp" line="85"/>
+        <location filename="../gis/gpx/CGpxProject.cpp" line="86"/>
         <source>Failed to load file %1...</source>
         <translation>Nepodařilo se nahrát soubor %1...</translation>
     </message>
     <message>
-        <location filename="../gis/gpx/CGpxProject.cpp" line="105"/>
+        <location filename="../gis/gpx/CGpxProject.cpp" line="106"/>
         <source>Failed to open %1</source>
         <translation>Nepodařilo se otevřít %1</translation>
     </message>
     <message>
-        <location filename="../gis/gpx/CGpxProject.cpp" line="116"/>
+        <location filename="../gis/gpx/CGpxProject.cpp" line="117"/>
         <source>Failed to read: %1
 line %2, column %3:
  %4</source>
@@ -3091,32 +3091,32 @@ line %2, column %3:
 %4</translation>
     </message>
     <message>
-        <location filename="../gis/gpx/CGpxProject.cpp" line="127"/>
+        <location filename="../gis/gpx/CGpxProject.cpp" line="128"/>
         <source>Not a GPX file: %1</source>
         <translation>Není souborem GPX: %1</translation>
     </message>
     <message>
-        <location filename="../gis/gpx/CGpxProject.cpp" line="246"/>
+        <location filename="../gis/gpx/CGpxProject.cpp" line="247"/>
         <source>File exists ...</source>
         <translation>Soubor existuje...</translation>
     </message>
     <message>
-        <location filename="../gis/gpx/CGpxProject.cpp" line="247"/>
+        <location filename="../gis/gpx/CGpxProject.cpp" line="248"/>
         <source>The file exists and it has not been created by QMapShack. If you press &apos;yes&apos; all data in this file will be lost. Even if this file contains GPX data and has been loaded by QMapShack, QMapShack might not be able to load and store all elements of this file.  Those elements will be lost. I recommend to use another file. &lt;b&gt;Do you really want to overwrite the file?&lt;/b&gt;</source>
         <translation>Soubor existuje a nebyl vytvořen programem QMapShack. Pokud stisknete Ano, budou všechna data v tomto souboru ztracena. I když by tento soubor obsahoval data GPX a byl nahrán programem QMapShack, QMapShack nemusí být schopen nahrát a uložit všechny prvky tohoto souboru.  Tyto prvky budou ztraceny. Doporučuje se použít jiný soubor. &lt;b&gt;Opravdu chcete soubor přepsat?&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../gis/gpx/CGpxProject.cpp" line="358"/>
+        <location filename="../gis/gpx/CGpxProject.cpp" line="359"/>
         <source>Failed to create file &apos;%1&apos;</source>
         <translation>Nepodařilo se vytvořit soubor &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../gis/gpx/CGpxProject.cpp" line="367"/>
+        <location filename="../gis/gpx/CGpxProject.cpp" line="368"/>
         <source>Failed to write file &apos;%1&apos;</source>
         <translation>Nepodařilo se zapsat soubor &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../gis/gpx/CGpxProject.cpp" line="376"/>
+        <location filename="../gis/gpx/CGpxProject.cpp" line="377"/>
         <source>Saving GIS data failed...</source>
         <translation>Nepodařilo se uložit data GIS...</translation>
     </message>
@@ -3661,698 +3661,708 @@ line %2, column %3:
 <context>
     <name>CMainWindow</name>
     <message>
-        <location filename="../CMainWindow.cpp" line="603"/>
+        <location filename="../CMainWindow.cpp" line="604"/>
         <source>Select folder...</source>
         <translation>Vybrat složku...</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="879"/>
+        <location filename="../CMainWindow.cpp" line="880"/>
         <source> (Cloned)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="907"/>
+        <location filename="../CMainWindow.cpp" line="908"/>
         <source>Use &lt;b&gt;Menu-&gt;View-&gt;Add Map View&lt;/b&gt; to open a new view. Or &lt;b&gt;Menu-&gt;File-&gt;Load Map View&lt;/b&gt; to restore a saved one. Or click &lt;a href=&apos;NewView&apos;&gt;here&lt;/a&gt;.</source>
         <translation>Použít &lt;b&gt;Nabídka → Pohled → Přidat pohled na mapu&lt;/b&gt; k otevření nového pohledu. Nebo &lt;b&gt;Nabídka → Soubor → Nahrát pohled na mapu&lt;/b&gt; k obnovení uložené. Nebo klepněte na &lt;a href=&apos;newview&apos;&gt;sem&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1018"/>
+        <location filename="../CMainWindow.cpp" line="1019"/>
         <source>Ele.: %1%2</source>
         <translation>Výška: %1%2</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1028"/>
+        <location filename="../CMainWindow.cpp" line="1029"/>
         <source>Slope: %1%2</source>
         <comment>terrain</comment>
         <translation>Sklon: %1%2</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1040"/>
+        <location filename="../CMainWindow.cpp" line="1041"/>
         <source>[Grid: %1]</source>
         <translation>[Mřížka: %1]</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1170"/>
+        <location filename="../CMainWindow.cpp" line="1171"/>
         <source>Load GIS Data...</source>
         <translation>Nahrát data GIS...</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1197"/>
+        <location filename="../CMainWindow.cpp" line="1198"/>
         <source>Select output file</source>
         <translation>Vybrat výstupní soubor</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1197"/>
-        <location filename="../CMainWindow.cpp" line="1221"/>
+        <location filename="../CMainWindow.cpp" line="1198"/>
+        <location filename="../CMainWindow.cpp" line="1222"/>
         <source>QMapShack View (*.view)</source>
         <translation>Pohled QMapShack (*.view)</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1221"/>
+        <location filename="../CMainWindow.cpp" line="1222"/>
         <source>Select file to load</source>
         <translation>Vybrat soubor k nahrání</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1421"/>
+        <location filename="../CMainWindow.cpp" line="1422"/>
         <source>Rename View...</source>
         <translation>Přejmenovat pohled...</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1421"/>
+        <location filename="../CMainWindow.cpp" line="1422"/>
         <source>Enter new name for view</source>
         <translation>Zadejte nový název pohledu</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1564"/>
+        <location filename="../CMainWindow.cpp" line="1565"/>
         <source>Fatal...</source>
         <translation>Kritické...</translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1565"/>
+        <location filename="../CMainWindow.cpp" line="1566"/>
         <source>QMapShack detected a badly installed Proj library. Please contact the package maintainer of your distribution to fix it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1633"/>
+        <location filename="../CMainWindow.cpp" line="1634"/>
         <source>To link map views all map views must have the same projection and scale type. The function &apos;Link Map Views&apos; will be switched off, now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../CMainWindow.cpp" line="1636"/>
+        <location filename="../CMainWindow.cpp" line="1637"/>
         <source>Link Map Views...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../misc.h" line="53"/>
+        <source>File access failed...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../misc.h" line="54"/>
+        <source>Failed to open %1 with error %2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CMapIMG</name>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="130"/>
+        <location filename="../map/CMapIMG.cpp" line="131"/>
         <source>Failed ...</source>
         <translation>Nepodařilo se...</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="153"/>
+        <location filename="../map/CMapIMG.cpp" line="154"/>
         <source>Unspecified</source>
         <translation>Neurčeno</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="154"/>
+        <location filename="../map/CMapIMG.cpp" line="155"/>
         <source>French</source>
         <translation>Francouzský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="155"/>
+        <location filename="../map/CMapIMG.cpp" line="156"/>
         <source>German</source>
         <translation>Německý</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="156"/>
+        <location filename="../map/CMapIMG.cpp" line="157"/>
         <source>Dutch</source>
         <translation>Holandský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="157"/>
+        <location filename="../map/CMapIMG.cpp" line="158"/>
         <source>English</source>
         <translation>Anglický</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="158"/>
+        <location filename="../map/CMapIMG.cpp" line="159"/>
         <source>Italian</source>
         <translation>Italský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="159"/>
+        <location filename="../map/CMapIMG.cpp" line="160"/>
         <source>Finnish</source>
         <translation>Finský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="160"/>
+        <location filename="../map/CMapIMG.cpp" line="161"/>
         <source>Swedish</source>
         <translation>Švédský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="161"/>
+        <location filename="../map/CMapIMG.cpp" line="162"/>
         <source>Spanish</source>
         <translation>Španělský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="162"/>
+        <location filename="../map/CMapIMG.cpp" line="163"/>
         <source>Basque</source>
         <translation>Baskický</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="163"/>
+        <location filename="../map/CMapIMG.cpp" line="164"/>
         <source>Catalan</source>
         <translation>Katalánský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="164"/>
+        <location filename="../map/CMapIMG.cpp" line="165"/>
         <source>Galician</source>
         <translation>Galicijský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="165"/>
+        <location filename="../map/CMapIMG.cpp" line="166"/>
         <source>Welsh</source>
         <translation>Velšský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="166"/>
+        <location filename="../map/CMapIMG.cpp" line="167"/>
         <source>Gaelic</source>
         <translation>Gaelský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="167"/>
+        <location filename="../map/CMapIMG.cpp" line="168"/>
         <source>Danish</source>
         <translation>Dánský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="168"/>
+        <location filename="../map/CMapIMG.cpp" line="169"/>
         <source>Norwegian</source>
         <translation>Norský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="169"/>
+        <location filename="../map/CMapIMG.cpp" line="170"/>
         <source>Portuguese</source>
         <translation>Portugalský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="170"/>
+        <location filename="../map/CMapIMG.cpp" line="171"/>
         <source>Slovak</source>
         <translation>Slovenský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="171"/>
+        <location filename="../map/CMapIMG.cpp" line="172"/>
         <source>Czech</source>
         <translation>Český</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="172"/>
+        <location filename="../map/CMapIMG.cpp" line="173"/>
         <source>Croatian</source>
         <translation>Chorvatský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="173"/>
+        <location filename="../map/CMapIMG.cpp" line="174"/>
         <source>Hungarian</source>
         <translation>Maďarský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="174"/>
+        <location filename="../map/CMapIMG.cpp" line="175"/>
         <source>Polish</source>
         <translation>Polský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="175"/>
+        <location filename="../map/CMapIMG.cpp" line="176"/>
         <source>Turkish</source>
         <translation>Turecký</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="176"/>
+        <location filename="../map/CMapIMG.cpp" line="177"/>
         <source>Greek</source>
         <translation>Řecký</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="177"/>
+        <location filename="../map/CMapIMG.cpp" line="178"/>
         <source>Slovenian</source>
         <translation>Slovinský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="178"/>
+        <location filename="../map/CMapIMG.cpp" line="179"/>
         <source>Russian</source>
         <translation>Ruský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="179"/>
+        <location filename="../map/CMapIMG.cpp" line="180"/>
         <source>Estonian</source>
         <translation>Estonský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="180"/>
+        <location filename="../map/CMapIMG.cpp" line="181"/>
         <source>Latvian</source>
         <translation>Lotyšský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="181"/>
+        <location filename="../map/CMapIMG.cpp" line="182"/>
         <source>Romanian</source>
         <translation>Rumunský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="182"/>
+        <location filename="../map/CMapIMG.cpp" line="183"/>
         <source>Albanian</source>
         <translation>Albánský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="183"/>
+        <location filename="../map/CMapIMG.cpp" line="184"/>
         <source>Bosnian</source>
         <translation>Bosenský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="184"/>
+        <location filename="../map/CMapIMG.cpp" line="185"/>
         <source>Lithuanian</source>
         <translation>Litevský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="185"/>
+        <location filename="../map/CMapIMG.cpp" line="186"/>
         <source>Serbian</source>
         <translation>Srbský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="186"/>
+        <location filename="../map/CMapIMG.cpp" line="187"/>
         <source>Macedonian</source>
         <translation>Makedonský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="187"/>
+        <location filename="../map/CMapIMG.cpp" line="188"/>
         <source>Bulgarian</source>
         <translation>Bulharský</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="244"/>
+        <location filename="../map/CMapIMG.cpp" line="245"/>
         <source>Major highway</source>
         <translation>Dálnice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="245"/>
+        <location filename="../map/CMapIMG.cpp" line="246"/>
         <source>Principal highway</source>
         <translation>Silnice první třídy</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="246"/>
+        <location filename="../map/CMapIMG.cpp" line="247"/>
         <source>Other highway</source>
         <translation>Jiné rychlostní silnice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="247"/>
+        <location filename="../map/CMapIMG.cpp" line="248"/>
         <source>Arterial road</source>
         <translation>Rychlostní silnice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="248"/>
+        <location filename="../map/CMapIMG.cpp" line="249"/>
         <source>Collector road</source>
         <translation>Státní silnice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="249"/>
+        <location filename="../map/CMapIMG.cpp" line="250"/>
         <source>Residential street</source>
         <translation>Silnice v obytné oblasti</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="250"/>
+        <location filename="../map/CMapIMG.cpp" line="251"/>
         <source>Alley/Private road</source>
         <translation>Soukromá cesta</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="251"/>
+        <location filename="../map/CMapIMG.cpp" line="252"/>
         <source>Highway ramp, low speed</source>
         <translation>Nájezd na dálnici/sjezd z dálnice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="252"/>
+        <location filename="../map/CMapIMG.cpp" line="253"/>
         <source>Highway ramp, high speed</source>
         <translation>Nájezd na dálnici/sjezd z dálnice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="253"/>
+        <location filename="../map/CMapIMG.cpp" line="254"/>
         <source>Unpaved road</source>
         <translation>Neasfaltovaná cesta</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="254"/>
+        <location filename="../map/CMapIMG.cpp" line="255"/>
         <source>Major highway connector</source>
         <translation>Dalniční přivaděč</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="255"/>
+        <location filename="../map/CMapIMG.cpp" line="256"/>
         <source>Roundabout</source>
         <translation>Kruhový objezd</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="256"/>
+        <location filename="../map/CMapIMG.cpp" line="257"/>
         <source>Railroad</source>
         <translation>Železnice, koleje</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="257"/>
+        <location filename="../map/CMapIMG.cpp" line="258"/>
         <source>Shoreline</source>
         <translation>Břeh</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="258"/>
+        <location filename="../map/CMapIMG.cpp" line="259"/>
         <source>Trail</source>
         <translation>Cesta</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="259"/>
+        <location filename="../map/CMapIMG.cpp" line="260"/>
         <source>Stream</source>
         <translation>Proud</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="260"/>
+        <location filename="../map/CMapIMG.cpp" line="261"/>
         <source>Timezone</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="261"/>
         <location filename="../map/CMapIMG.cpp" line="262"/>
+        <location filename="../map/CMapIMG.cpp" line="263"/>
         <source>Ferry</source>
         <translation>Přívoz</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="263"/>
+        <location filename="../map/CMapIMG.cpp" line="264"/>
         <source>State/province border</source>
         <translation>Státní/Zemská hranice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="264"/>
+        <location filename="../map/CMapIMG.cpp" line="265"/>
         <source>County/parish border</source>
         <translation>Krajská/Obecní hranice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="265"/>
+        <location filename="../map/CMapIMG.cpp" line="266"/>
         <source>International border</source>
         <translation>Mezinárodní hranice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="266"/>
+        <location filename="../map/CMapIMG.cpp" line="267"/>
         <source>River</source>
         <translation>Řeka</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="267"/>
+        <location filename="../map/CMapIMG.cpp" line="268"/>
         <source>Minor land contour</source>
         <translation>Malá vrstevnice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="268"/>
+        <location filename="../map/CMapIMG.cpp" line="269"/>
         <source>Intermediate land contour</source>
         <translation>Střední vrstevnice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="269"/>
+        <location filename="../map/CMapIMG.cpp" line="270"/>
         <source>Major land contour</source>
         <translation>Velká vrstevnice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="270"/>
+        <location filename="../map/CMapIMG.cpp" line="271"/>
         <source>Minor depth contour</source>
         <translation>Malá hloubková čára</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="271"/>
+        <location filename="../map/CMapIMG.cpp" line="272"/>
         <source>Intermediate depth contour</source>
         <translation>Střední hloubková čára</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="272"/>
+        <location filename="../map/CMapIMG.cpp" line="273"/>
         <source>Major depth contour</source>
         <translation>Velká hloubková čára</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="273"/>
+        <location filename="../map/CMapIMG.cpp" line="274"/>
         <source>Intermittent stream</source>
         <translation>Přerušovaný potok (Wadi)</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="274"/>
-        <location filename="../map/CMapIMG.cpp" line="356"/>
+        <location filename="../map/CMapIMG.cpp" line="275"/>
+        <location filename="../map/CMapIMG.cpp" line="357"/>
         <source>Airport runway</source>
         <translation>Přistávací dráha</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="275"/>
+        <location filename="../map/CMapIMG.cpp" line="276"/>
         <source>Pipeline</source>
         <translation>Dálkové potrubí</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="276"/>
+        <location filename="../map/CMapIMG.cpp" line="277"/>
         <source>Powerline</source>
         <translation>Elektrické vedení</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="277"/>
+        <location filename="../map/CMapIMG.cpp" line="278"/>
         <source>Marine boundary</source>
         <translation>Hranice moře</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="278"/>
+        <location filename="../map/CMapIMG.cpp" line="279"/>
         <source>Hazard boundary</source>
         <translation>Nebezpečná hranice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="343"/>
+        <location filename="../map/CMapIMG.cpp" line="344"/>
         <source>Large urban area (&amp;gt;200K)</source>
         <translation>Velkoměstská oblast (&amp;gt;200 000)</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="344"/>
+        <location filename="../map/CMapIMG.cpp" line="345"/>
         <source>Small urban area (&amp;lt;200K)</source>
         <translation>Maloměstská oblast (&amp;gt;200 000)</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="345"/>
+        <location filename="../map/CMapIMG.cpp" line="346"/>
         <source>Rural housing area</source>
         <translation>Městská obytná oblast</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="346"/>
+        <location filename="../map/CMapIMG.cpp" line="347"/>
         <source>Military base</source>
         <translation>Vojenská základna</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="347"/>
+        <location filename="../map/CMapIMG.cpp" line="348"/>
         <source>Parking lot</source>
         <translation>Parkoviště</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="348"/>
+        <location filename="../map/CMapIMG.cpp" line="349"/>
         <source>Parking garage</source>
         <translation>Parkovací budova</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="349"/>
+        <location filename="../map/CMapIMG.cpp" line="350"/>
         <source>Airport</source>
         <translation>Letiště</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="350"/>
+        <location filename="../map/CMapIMG.cpp" line="351"/>
         <source>Shopping center</source>
         <translation>Nákupní středisko</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="351"/>
+        <location filename="../map/CMapIMG.cpp" line="352"/>
         <source>Marina</source>
         <translation>Přístav</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="352"/>
+        <location filename="../map/CMapIMG.cpp" line="353"/>
         <source>University/College</source>
         <translation>Univerzita/Vysoká škola</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="353"/>
+        <location filename="../map/CMapIMG.cpp" line="354"/>
         <source>Hospital</source>
         <translation>Nemocnice</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="354"/>
+        <location filename="../map/CMapIMG.cpp" line="355"/>
         <source>Industrial complex</source>
         <translation>Průmyslový celek</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="355"/>
+        <location filename="../map/CMapIMG.cpp" line="356"/>
         <source>Reservation</source>
         <translation>Chráněné území</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="357"/>
+        <location filename="../map/CMapIMG.cpp" line="358"/>
         <source>Man-made area</source>
         <translation>Zástavba</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="358"/>
+        <location filename="../map/CMapIMG.cpp" line="359"/>
         <source>Sports complex</source>
         <translation>Oblast pro tělesné činnosti</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="359"/>
+        <location filename="../map/CMapIMG.cpp" line="360"/>
         <source>Golf course</source>
         <translation>Golfové hřiště</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="360"/>
+        <location filename="../map/CMapIMG.cpp" line="361"/>
         <source>Cemetery</source>
         <translation>Hřbitov</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="361"/>
         <location filename="../map/CMapIMG.cpp" line="362"/>
         <location filename="../map/CMapIMG.cpp" line="363"/>
+        <location filename="../map/CMapIMG.cpp" line="364"/>
         <source>National park</source>
         <translation>Národní park</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="364"/>
+        <location filename="../map/CMapIMG.cpp" line="365"/>
         <source>City park</source>
         <translation>Městské sady</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="365"/>
         <location filename="../map/CMapIMG.cpp" line="366"/>
         <location filename="../map/CMapIMG.cpp" line="367"/>
+        <location filename="../map/CMapIMG.cpp" line="368"/>
         <source>State park</source>
         <translation>Státní park</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="368"/>
+        <location filename="../map/CMapIMG.cpp" line="369"/>
         <source>Forest</source>
         <translation>Les</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="369"/>
+        <location filename="../map/CMapIMG.cpp" line="370"/>
         <source>Ocean</source>
         <translation>Oceán</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="370"/>
-        <location filename="../map/CMapIMG.cpp" line="372"/>
-        <location filename="../map/CMapIMG.cpp" line="382"/>
+        <location filename="../map/CMapIMG.cpp" line="371"/>
+        <location filename="../map/CMapIMG.cpp" line="373"/>
+        <location filename="../map/CMapIMG.cpp" line="383"/>
         <source>Blue (unknown)</source>
         <translation>Modrá (neznámé)</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="371"/>
+        <location filename="../map/CMapIMG.cpp" line="372"/>
         <source>Sea</source>
         <translation>Moře</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="373"/>
         <location filename="../map/CMapIMG.cpp" line="374"/>
-        <location filename="../map/CMapIMG.cpp" line="381"/>
+        <location filename="../map/CMapIMG.cpp" line="375"/>
+        <location filename="../map/CMapIMG.cpp" line="382"/>
         <source>Large lake</source>
         <translation>Velké jezero</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="375"/>
         <location filename="../map/CMapIMG.cpp" line="376"/>
+        <location filename="../map/CMapIMG.cpp" line="377"/>
         <source>Medium lake</source>
         <translation>Střední jezero</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="377"/>
         <location filename="../map/CMapIMG.cpp" line="378"/>
+        <location filename="../map/CMapIMG.cpp" line="379"/>
         <source>Small lake</source>
         <translation>Malé jezero</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="379"/>
         <location filename="../map/CMapIMG.cpp" line="380"/>
+        <location filename="../map/CMapIMG.cpp" line="381"/>
         <source>Major lake</source>
         <translation>Velmi velké jezero</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="383"/>
+        <location filename="../map/CMapIMG.cpp" line="384"/>
         <source>Major River</source>
         <translation>Veletok</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="384"/>
+        <location filename="../map/CMapIMG.cpp" line="385"/>
         <source>Large River</source>
         <translation>Velká řeka</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="385"/>
+        <location filename="../map/CMapIMG.cpp" line="386"/>
         <source>Medium River</source>
         <translation>Střední řeka</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="386"/>
+        <location filename="../map/CMapIMG.cpp" line="387"/>
         <source>Small River</source>
         <translation>Malá řeka</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="389"/>
+        <location filename="../map/CMapIMG.cpp" line="390"/>
         <source>Intermittent water</source>
         <translation>Přerušovaná voda</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="390"/>
+        <location filename="../map/CMapIMG.cpp" line="391"/>
         <source>Wetland/Swamp</source>
         <translation>Močál/Bažina</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="391"/>
+        <location filename="../map/CMapIMG.cpp" line="392"/>
         <source>Glacier</source>
         <translation>Ledovec</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="392"/>
+        <location filename="../map/CMapIMG.cpp" line="393"/>
         <source>Orchard/Plantation</source>
         <translation>Sad/Plantáž</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="393"/>
+        <location filename="../map/CMapIMG.cpp" line="394"/>
         <source>Scrub</source>
         <translation>Křoví</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="394"/>
+        <location filename="../map/CMapIMG.cpp" line="395"/>
         <source>Tundra</source>
         <translation>Tundra</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="395"/>
+        <location filename="../map/CMapIMG.cpp" line="396"/>
         <source>Flat</source>
         <translation>Rovina</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="396"/>
+        <location filename="../map/CMapIMG.cpp" line="397"/>
         <source>???</source>
         <translation>???</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="407"/>
+        <location filename="../map/CMapIMG.cpp" line="408"/>
         <source>Read external type file...</source>
         <translation>Přečíst vnější typ souboru...</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="408"/>
+        <location filename="../map/CMapIMG.cpp" line="409"/>
         <source>Failed to read type file: %1
 Fall back to internal types.</source>
         <translation>Nepodařilo se přečíst typ souboru: %1
 Návrat k vnitřním typům.</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="445"/>
+        <location filename="../map/CMapIMG.cpp" line="446"/>
         <source>Failed to read: </source>
         <translation>Nepodařilo se přečíst: </translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="481"/>
+        <location filename="../map/CMapIMG.cpp" line="482"/>
         <source>Failed to open: </source>
         <translation>Nepodařilo se otevřít: </translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="504"/>
-        <location filename="../map/CMapIMG.cpp" line="507"/>
+        <location filename="../map/CMapIMG.cpp" line="505"/>
+        <location filename="../map/CMapIMG.cpp" line="508"/>
         <source>Bad file format: </source>
         <translation>Špatný formát souboru: </translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="589"/>
+        <location filename="../map/CMapIMG.cpp" line="590"/>
         <source>Failed to read file structure: </source>
         <translation>Nepodařilo se přečíst stavbu souboru: </translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="621"/>
+        <location filename="../map/CMapIMG.cpp" line="622"/>
         <source>Loading %1</source>
         <translation>Nahrává se %1</translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="626"/>
+        <location filename="../map/CMapIMG.cpp" line="627"/>
         <source>User abort: </source>
         <translation>Zrušeno uživatelem: </translation>
     </message>
     <message>
-        <location filename="../map/CMapIMG.cpp" line="629"/>
+        <location filename="../map/CMapIMG.cpp" line="630"/>
         <source>File is NT format. QMapShack is unable to read map files with NT format: </source>
         <translation>Soubor je ve formátu NT. QMapShack nedokáže číst mapové soubory ve formátu NT: </translation>
     </message>
@@ -4446,42 +4456,42 @@ Návrat k vnitřním typům.</translation>
 <context>
     <name>CMapRMAP</name>
     <message>
-        <location filename="../map/CMapRMAP.cpp" line="44"/>
-        <location filename="../map/CMapRMAP.cpp" line="53"/>
-        <location filename="../map/CMapRMAP.cpp" line="118"/>
-        <location filename="../map/CMapRMAP.cpp" line="129"/>
-        <location filename="../map/CMapRMAP.cpp" line="145"/>
-        <location filename="../map/CMapRMAP.cpp" line="162"/>
-        <location filename="../map/CMapRMAP.cpp" line="179"/>
-        <location filename="../map/CMapRMAP.cpp" line="201"/>
-        <source>Error...</source>
-        <translation>Chyba...</translation>
-    </message>
-    <message>
-        <location filename="../map/CMapRMAP.cpp" line="44"/>
-        <source>This is not a TwoNav RMAP file.</source>
-        <translation>Toto není soubor TwoNav RMAP</translation>
-    </message>
-    <message>
-        <location filename="../map/CMapRMAP.cpp" line="53"/>
-        <source>Unknown sub-format.</source>
-        <translation>Neznámý podformát.</translation>
-    </message>
-    <message>
-        <location filename="../map/CMapRMAP.cpp" line="118"/>
-        <source>Unknown version.</source>
-        <translation>Neznámá verze</translation>
-    </message>
-    <message>
+        <location filename="../map/CMapRMAP.cpp" line="45"/>
+        <location filename="../map/CMapRMAP.cpp" line="54"/>
+        <location filename="../map/CMapRMAP.cpp" line="119"/>
         <location filename="../map/CMapRMAP.cpp" line="130"/>
         <location filename="../map/CMapRMAP.cpp" line="146"/>
         <location filename="../map/CMapRMAP.cpp" line="163"/>
         <location filename="../map/CMapRMAP.cpp" line="180"/>
+        <location filename="../map/CMapRMAP.cpp" line="202"/>
+        <source>Error...</source>
+        <translation>Chyba...</translation>
+    </message>
+    <message>
+        <location filename="../map/CMapRMAP.cpp" line="45"/>
+        <source>This is not a TwoNav RMAP file.</source>
+        <translation>Toto není soubor TwoNav RMAP</translation>
+    </message>
+    <message>
+        <location filename="../map/CMapRMAP.cpp" line="54"/>
+        <source>Unknown sub-format.</source>
+        <translation>Neznámý podformát.</translation>
+    </message>
+    <message>
+        <location filename="../map/CMapRMAP.cpp" line="119"/>
+        <source>Unknown version.</source>
+        <translation>Neznámá verze</translation>
+    </message>
+    <message>
+        <location filename="../map/CMapRMAP.cpp" line="131"/>
+        <location filename="../map/CMapRMAP.cpp" line="147"/>
+        <location filename="../map/CMapRMAP.cpp" line="164"/>
+        <location filename="../map/CMapRMAP.cpp" line="181"/>
         <source>Failed to read reference point.</source>
         <translation>Nepodařilo se přečíst referenční bod.</translation>
     </message>
     <message>
-        <location filename="../map/CMapRMAP.cpp" line="202"/>
+        <location filename="../map/CMapRMAP.cpp" line="203"/>
         <source>Unknown projection and datum (%1%2).</source>
         <translation>Neznámé promítání a datum (%1%2).</translation>
     </message>
@@ -4560,22 +4570,22 @@ line %2, column %3:
 <context>
     <name>CMapVrtBuilder</name>
     <message>
-        <location filename="../tool/CMapVrtBuilder.cpp" line="29"/>
+        <location filename="../tool/CMapVrtBuilder.cpp" line="30"/>
         <source>Build GDAL VRT</source>
         <translation>Sestavit GDAL VRT</translation>
     </message>
     <message>
-        <location filename="../tool/CMapVrtBuilder.cpp" line="79"/>
+        <location filename="../tool/CMapVrtBuilder.cpp" line="80"/>
         <source>Select files...</source>
         <translation>Vybrat soubory...</translation>
     </message>
     <message>
-        <location filename="../tool/CMapVrtBuilder.cpp" line="104"/>
+        <location filename="../tool/CMapVrtBuilder.cpp" line="105"/>
         <source>Select target file...</source>
         <translation>Vybrat cílový soubor...</translation>
     </message>
     <message>
-        <location filename="../tool/CMapVrtBuilder.cpp" line="198"/>
+        <location filename="../tool/CMapVrtBuilder.cpp" line="199"/>
         <source>!!! done !!!
 </source>
         <translation>Hotovo!</translation>
@@ -5063,27 +5073,27 @@ addr:country</source>
 <context>
     <name>CPrintDialog</name>
     <message>
-        <location filename="../print/CPrintDialog.cpp" line="63"/>
+        <location filename="../print/CPrintDialog.cpp" line="64"/>
         <source>Print Map...</source>
         <translation>Tisk mapy...</translation>
     </message>
     <message>
-        <location filename="../print/CPrintDialog.cpp" line="68"/>
+        <location filename="../print/CPrintDialog.cpp" line="69"/>
         <source>Save Map as Image...</source>
         <translation>Uložit mapu jako obrázek...</translation>
     </message>
     <message>
-        <location filename="../print/CPrintDialog.cpp" line="84"/>
+        <location filename="../print/CPrintDialog.cpp" line="85"/>
         <source>Printer Properties...</source>
         <translation>Vlastnosti tiskárny...</translation>
     </message>
     <message>
-        <location filename="../print/CPrintDialog.cpp" line="157"/>
+        <location filename="../print/CPrintDialog.cpp" line="158"/>
         <source>Pages: %1 x %2</source>
         <translation>Strany: %1 x %2</translation>
     </message>
     <message>
-        <location filename="../print/CPrintDialog.cpp" line="159"/>
+        <location filename="../print/CPrintDialog.cpp" line="160"/>
         <source>Zoom with mouse wheel on map below to change resolution:
 
 %1x%2 pixel
@@ -5096,18 +5106,18 @@ x: %3 m/px
 y: %4 m/px</translation>
     </message>
     <message>
-        <location filename="../print/CPrintDialog.cpp" line="165"/>
+        <location filename="../print/CPrintDialog.cpp" line="166"/>
         <source>
  This equals to a scale of approx. 1:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../print/CPrintDialog.cpp" line="208"/>
+        <location filename="../print/CPrintDialog.cpp" line="209"/>
         <source>Printing pages.</source>
         <translation>Probíhá tisk stran.</translation>
     </message>
     <message>
-        <location filename="../print/CPrintDialog.cpp" line="251"/>
+        <location filename="../print/CPrintDialog.cpp" line="252"/>
         <source>Save map...</source>
         <translation>Uložit mapu...</translation>
     </message>
@@ -5622,57 +5632,57 @@ není platným vymezením soustavy souřadnic
 <context>
     <name>CRouterBRouterSetup</name>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="308"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="309"/>
         <source>no brouter-jar found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="315"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="316"/>
         <source>brouter jar-file: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="319"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="320"/>
         <source>conflicting alternative jar-file %1, go back to previous page to select!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="337"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="338"/>
         <source>backup: %1 to %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="339"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="340"/>
         <source>error renaming file %1 to %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="345"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="346"/>
         <source>installed: %1 to %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="347"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="348"/>
         <source>error copying %1 to %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="613"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="616"/>
         <source>%1 not accessible</source>
         <translation>%1: Není přístupný</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="637"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="640"/>
         <source>%1 invalid result</source>
         <translation>%1 Neplatný výsledek</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="661"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="664"/>
         <source>Error parsing online-config:</source>
         <translation>Chyba při zpracování nastavení na internetu:</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="664"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterSetup.cpp" line="667"/>
         <source>Network error:</source>
         <translation>Síťová chyba:</translation>
     </message>
@@ -5845,125 +5855,125 @@ Please check the logs if Brouter fails to start.</source>
 <context>
     <name>CRouterBRouterTilesSelect</name>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="105"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="106"/>
         <source>available routing-data is being determined.</source>
         <translation>Dostupná data se stanovením cesty jsou určena.</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="115"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="116"/>
         <source>Select outdated</source>
         <translation>Vybrat zastaralé</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="116"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="117"/>
         <source>Clear Selection</source>
         <translation>Vyprázdnit výběr</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="117"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="118"/>
         <source>Delete selection</source>
         <translation>Smazat výběr</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="118"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="119"/>
         <source>Download</source>
         <translation>Stáhnout</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="253"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="254"/>
         <source>Error creating segments directory %1</source>
         <translation>Chyba při vytváření adresáře s částmi %1</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="342"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="343"/>
         <source>cannot parse: %1 is not a date</source>
         <translation>Nelze zpracovat: %1 není datum</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="355"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="356"/>
         <source>cannot parse: %1 is not a valid size</source>
         <translation>Nelze zpracovat: %1 není platná velikost</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="620"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="621"/>
         <source>Error retrieving available routing data from %1: %2</source>
         <translation>Chyba při získávání dostupných dat se stanovením cesty z %1: %2</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="428"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="429"/>
         <source>segments directory does not exist: </source>
         <translation>Adresář s částmi neexistuje: </translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="441"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="442"/>
         <source>error creating file %1: %2</source>
         <translation>Chyba při vytváření souboru %1: %2</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="475"/>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="508"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="476"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="509"/>
         <source>no valid request for filename %1</source>
         <translation>Žádný platný požadavek pro souborový název %1</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="479"/>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="513"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="480"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="514"/>
         <source>no open file assigned to request for %1</source>
         <translation>Žádný otevřený soubor nepřiřazen k požadavku pro %1</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="488"/>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="518"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="489"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="519"/>
         <source>error writing to file %1: %2</source>
         <translation>Chyba při zápisu do souboru %1: %2</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="536"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="537"/>
         <source>error renaming file %1 to %2: %3</source>
         <translation>Chyba při přejmenovávání souboru %1 na %2: %3</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="596"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="597"/>
         <source>up-to-date: %1 (%2), outdated: %3 (%4), to be downloaded: %5 (%6)</source>
         <translation>Aktuální: %1 (%2), zastaralé: %3 (%4), ke stažení: %5 (%6)</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="678"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="679"/>
         <source>being downloaded: %1 of %2</source>
         <translation>Stahuje se: %1 z %2</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="688"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="689"/>
         <source>no local data, online available: %1 (%2)</source>
         <translation>Žádná místní data, dostupná na internetu: %1 (%2)</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="681"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="682"/>
         <source>local data outdated (%1, %2 - remote %3, %4)</source>
         <translation>Místní data zastaralá (%1, %2 - vzdálený %3, %4)</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="183"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="184"/>
         <source>Error removing %1: %2</source>
         <translation>Chyba při odstraňování souboru %1: %2</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="284"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="285"/>
         <source>Network Error</source>
         <translation>Síťová chyba</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="319"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="320"/>
         <source>invalid result, no files found</source>
         <translation>Neplatný výsledek, nenalezeny žádné soubory</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="685"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="686"/>
         <source>local data up to date (%1, %2)</source>
         <translation>Místní data aktuální (%1, %2)</translation>
     </message>
     <message>
-        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="691"/>
+        <location filename="../gis/rte/router/brouter/CRouterBRouterTilesSelect.cpp" line="692"/>
         <source>no routing-data available</source>
         <translation>Nejsou dostupná žádná data se stanovením cesty</translation>
     </message>
@@ -8135,17 +8145,17 @@ line %2, column %3:
 <context>
     <name>CTcxProject</name>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="73"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="74"/>
         <source>Failed to load file %1...</source>
         <translation>Nepodařilo se nahrát soubor %1...</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="92"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="93"/>
         <source>Failed to open %1</source>
         <translation>Nepodařilo se otevřít %1</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="99"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="100"/>
         <source>Failed to read: %1
 line %2, column %3:
  %4</source>
@@ -8154,78 +8164,78 @@ line %2, column %3:
 %4</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="109"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="110"/>
         <source>Not a TCX file: %1</source>
         <translation>Není to soubor TCX: %1</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="117"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="118"/>
         <source>This TCX file contains at least 1 workout, but neither an activity nor a course. As workouts do not contain position data, they can not be imported to QMapShack.</source>
         <translation>Tento soubor TCX obsahuje alespoň 1 řešení, ale není to ani činnost ani směr. A jelikož ta řešení neobsahují údaje o poloze, nelze je zavést do QMapShack.</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="121"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="122"/>
         <source>This TCX file does not contain any activity or course: %1</source>
         <translation>Tento soubor TCX neobsahuje žádnou činnost ani směr: %1</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="338"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="339"/>
         <source>File exists ...</source>
         <translation>Soubor existuje...</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="339"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="340"/>
         <source>The file exists and it has not been created by QMapShack. If you press &apos;yes&apos; all data in this file will be lost. Even if this file contains data and has been loaded by QMapShack, QMapShack might not be able to load and store all elements of this file.  Those elements will be lost. I recommend to use another file. &lt;b&gt;Do you really want to overwrite the file?&lt;/b&gt;</source>
         <translation>Soubor existuje a nebyl vytvořen QMapShack. Pokud stisknete Ano, všechna data v tomto poli budou ztracena.I když tento soubor obsahuje data a byl nahrán QMapShack, QMapShack nemusí být schopen nahrát a uložit všechny prvky tohoto souboru. Tyto prvky budou ztraceny. Doporučuje se použít jiný soubor. &lt;b&gt;Opravdu chcete soubor přepsat?&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="379"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="380"/>
         <source>The track &lt;b&gt;%1&lt;/b&gt; you have selected contains trackpoints with invalid timestamps. Device might not accept the generated TCX course file if left as is. &lt;b&gt;Do you want to apply a filter with constant speed (10 m/s) and continue?&lt;/b&gt;</source>
         <translation>Stopa &lt;b&gt;%1&lt;/b&gt;, kterou jste vybrali, obsahuje body stopy s neplatnými časovými razítky. Zařízení nemusí vytvořený soubor TCX se směrem přijmout, pokud se to tak nechá. &lt;b&gt;Chcete použít filtr se stálou rychlostí (10 m/s) a pokračovat?&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="405"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="406"/>
         <source>Course</source>
         <translation>Směr</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="406"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="407"/>
         <source>Activity</source>
         <translation>Činnost</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="407"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="408"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="378"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="379"/>
         <source>Track with invalid timestamps...</source>
         <translation>Stopa s neplatnými časovými razítky...</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="398"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="399"/>
         <source>Activity or course?</source>
         <translation>Činnost nebo směr?</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="400"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="401"/>
         <source>QMapShack does not know how track &lt;b&gt;%1&lt;/b&gt; should be saved. &lt;b&gt;Do you want to save it as a course or as an activity? &lt;/b&gt;Remember that only waypoints close enough to the track will be saved when saving as a course. Waypoints will not be saved when saving as an activity.</source>
         <translation>QMapShack neví, jak má být stopa &lt;b&gt;%1&lt;/b&gt; uložena. &lt;b&gt;Chcete ji uložit jako směr nebo jako činnost? &lt;/b&gt; Zapamatujte si, že pouze cestovní body, které jsou dostatečně blízko stopy, budou uloženy, když bude uložena jako směr. Cestovní body nebudou uloženy, když je stopa ukládána jako činnost.</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="491"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="492"/>
         <source>Failed to create file &apos;%1&apos;</source>
         <translation>Nepodařilo se vytvořit soubor &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="510"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="511"/>
         <source>Failed to write file &apos;%1&apos;</source>
         <translation>Nepodařilo se zapsat soubor &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="494"/>
-        <location filename="../gis/tcx/CTcxProject.cpp" line="511"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="495"/>
+        <location filename="../gis/tcx/CTcxProject.cpp" line="512"/>
         <source>Saving GIS data failed...</source>
         <translation>Nepodařilo se uložit data GIS...</translation>
     </message>
@@ -8309,19 +8319,19 @@ line %2, column %3:
     <message>
         <location filename="../gis/tnv/CTwoNavProject.cpp" line="76"/>
         <location filename="../gis/tnv/CTwoNavProject.cpp" line="162"/>
-        <location filename="../gis/tnv/serialization.cpp" line="510"/>
-        <location filename="../gis/tnv/serialization.cpp" line="533"/>
-        <location filename="../gis/tnv/serialization.cpp" line="543"/>
-        <location filename="../gis/tnv/serialization.cpp" line="559"/>
-        <location filename="../gis/tnv/serialization.cpp" line="585"/>
-        <location filename="../gis/tnv/serialization.cpp" line="643"/>
+        <location filename="../gis/tnv/serialization.cpp" line="509"/>
+        <location filename="../gis/tnv/serialization.cpp" line="532"/>
+        <location filename="../gis/tnv/serialization.cpp" line="542"/>
+        <location filename="../gis/tnv/serialization.cpp" line="558"/>
+        <location filename="../gis/tnv/serialization.cpp" line="584"/>
+        <location filename="../gis/tnv/serialization.cpp" line="642"/>
         <source>Error...</source>
         <translation>Chyba...</translation>
     </message>
     <message>
         <location filename="../gis/tnv/CTwoNavProject.cpp" line="77"/>
         <location filename="../gis/tnv/CTwoNavProject.cpp" line="162"/>
-        <location filename="../gis/tnv/serialization.cpp" line="511"/>
+        <location filename="../gis/tnv/serialization.cpp" line="510"/>
         <source>Failed to open %1.</source>
         <translation>Nepodařilo se otevřít %1.</translation>
     </message>
@@ -8331,15 +8341,15 @@ line %2, column %3:
         <translation>Uložit data GIS do...</translation>
     </message>
     <message>
-        <location filename="../gis/tnv/serialization.cpp" line="534"/>
-        <location filename="../gis/tnv/serialization.cpp" line="544"/>
+        <location filename="../gis/tnv/serialization.cpp" line="533"/>
+        <location filename="../gis/tnv/serialization.cpp" line="543"/>
         <source>Only support lon/lat WGS 84 format.</source>
         <translation>Jako formát je podporován jen lon/lat WGS 84.</translation>
     </message>
     <message>
-        <location filename="../gis/tnv/serialization.cpp" line="559"/>
-        <location filename="../gis/tnv/serialization.cpp" line="585"/>
-        <location filename="../gis/tnv/serialization.cpp" line="643"/>
+        <location filename="../gis/tnv/serialization.cpp" line="558"/>
+        <location filename="../gis/tnv/serialization.cpp" line="584"/>
+        <location filename="../gis/tnv/serialization.cpp" line="642"/>
         <source>Failed to read data.</source>
         <translation>Nepodařilo se přečíst data.</translation>
     </message>
@@ -8446,6 +8456,9 @@ line %2, column %3:
         <location filename="../helpers/CWptIconManager.cpp" line="511"/>
         <location filename="../helpers/CWptIconManager.cpp" line="516"/>
         <location filename="../helpers/CWptIconManager.cpp" line="521"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="526"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="531"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="536"/>
         <source>markers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8454,7 +8467,7 @@ line %2, column %3:
         <location filename="../helpers/CWptIconManager.cpp" line="82"/>
         <location filename="../helpers/CWptIconManager.cpp" line="87"/>
         <location filename="../helpers/CWptIconManager.cpp" line="92"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="522"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="537"/>
         <source>dot</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8472,7 +8485,7 @@ line %2, column %3:
         <location filename="../helpers/CWptIconManager.cpp" line="107"/>
         <location filename="../helpers/CWptIconManager.cpp" line="452"/>
         <location filename="../helpers/CWptIconManager.cpp" line="462"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="542"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="587"/>
         <source>flag</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8500,11 +8513,11 @@ line %2, column %3:
         <location filename="../helpers/CWptIconManager.cpp" line="397"/>
         <location filename="../helpers/CWptIconManager.cpp" line="412"/>
         <location filename="../helpers/CWptIconManager.cpp" line="427"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="598"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="613"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="618"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="623"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="643"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="800"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="815"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="820"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="825"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="845"/>
         <source>red</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8532,7 +8545,7 @@ line %2, column %3:
         <location filename="../helpers/CWptIconManager.cpp" line="402"/>
         <location filename="../helpers/CWptIconManager.cpp" line="417"/>
         <location filename="../helpers/CWptIconManager.cpp" line="432"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="588"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="790"/>
         <source>blue</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8560,11 +8573,11 @@ line %2, column %3:
         <location filename="../helpers/CWptIconManager.cpp" line="407"/>
         <location filename="../helpers/CWptIconManager.cpp" line="422"/>
         <location filename="../helpers/CWptIconManager.cpp" line="437"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="593"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="598"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="603"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="618"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="638"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="795"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="800"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="805"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="820"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="840"/>
         <source>green</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8611,10 +8624,10 @@ line %2, column %3:
         <location filename="../helpers/CWptIconManager.cpp" line="142"/>
         <location filename="../helpers/CWptIconManager.cpp" line="147"/>
         <location filename="../helpers/CWptIconManager.cpp" line="152"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="477"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="482"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="487"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="492"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="512"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="653"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="658"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="663"/>
         <source>circle</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8643,8 +8656,8 @@ line %2, column %3:
         <location filename="../helpers/CWptIconManager.cpp" line="202"/>
         <location filename="../helpers/CWptIconManager.cpp" line="207"/>
         <location filename="../helpers/CWptIconManager.cpp" line="212"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="507"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="512"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="527"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="532"/>
         <source>square</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8758,42 +8771,44 @@ line %2, column %3:
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="442"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="779"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="784"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="789"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="794"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="799"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="809"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="814"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="819"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="834"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="889"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="894"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="909"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="919"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="924"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="929"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="944"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="954"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="959"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="984"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="989"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="994"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="999"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1004"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1009"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1014"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1024"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1029"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1034"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1044"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1054"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1069"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1079"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1084"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1089"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1094"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1099"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="981"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="986"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="991"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="996"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1006"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1011"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1036"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1041"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1056"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1081"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1141"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1146"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1166"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1176"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1181"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1186"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1201"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1211"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1216"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1241"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1246"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1251"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1256"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1261"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1266"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1276"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1286"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1291"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1296"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1301"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1326"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1336"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1351"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1361"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1366"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1371"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1376"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1381"/>
         <source>building</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8818,105 +8833,869 @@ line %2, column %3:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="497"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="502"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="517"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="522"/>
         <source>smiley</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="517"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1534"/>
+        <source>afro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1539"/>
+        <source>alien</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1544"/>
+        <source>ball cap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1549"/>
+        <source>big ears</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1554"/>
+        <source>biker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1559"/>
+        <source>bug</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1564"/>
+        <source>cat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1569"/>
         <source>dog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="522"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="537"/>
         <source>waypoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="527"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="532"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="542"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="547"/>
         <source>anchor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="537"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="577"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="582"/>
         <source>beacon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="547"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="552"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="592"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="597"/>
         <source>diver down flag</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="557"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="602"/>
         <source>man overboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="562"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="567"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="572"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="607"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="612"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="617"/>
         <source>area</source>
         <translation type="unfinished">Oblast</translation>
     </message>
     <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="779"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="784"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="789"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="794"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="799"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="804"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="809"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="814"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="819"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="824"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="829"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="834"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="839"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="844"/>
+        <source>navaid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="780"/>
+        <source>amber</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="785"/>
+        <source>black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="572"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="805"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="825"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="835"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="840"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="845"/>
+        <source>white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="810"/>
+        <source>orange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="830"/>
+        <source>violet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="850"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="855"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="860"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="865"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="870"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="875"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="880"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="885"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="890"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="895"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="900"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="905"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="910"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="915"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="920"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="925"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="930"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="935"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="940"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="945"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="950"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="955"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="960"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="965"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="970"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="975"/>
+        <source>cycling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="851"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="856"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="861"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="866"/>
+        <source>category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="871"/>
+        <source>danger</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="876"/>
+        <source>first aid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="881"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1166"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1171"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1176"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1181"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1186"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1221"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1366"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1371"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1376"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1381"/>
+        <source>food</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="886"/>
+        <source>generic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="891"/>
+        <source>hors category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="896"/>
+        <source>left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="901"/>
+        <source>right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="906"/>
+        <source>sprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="911"/>
+        <source>straight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="916"/>
+        <source>summit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="921"/>
+        <source>valley</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="926"/>
+        <source>water</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="931"/>
+        <source>left fork</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="936"/>
+        <source>right fork</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="941"/>
+        <source>middle fork</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="946"/>
+        <source>slight left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="951"/>
+        <source>sharp left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="956"/>
+        <source>slight right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="961"/>
+        <source>sharp right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="966"/>
+        <source>uturn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="971"/>
+        <source>start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="976"/>
+        <source>end</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="980"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="985"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="990"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="995"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1000"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1005"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1010"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1015"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1020"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1025"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1030"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1035"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1040"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1045"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1050"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1055"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1060"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1065"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1070"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1075"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1080"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1085"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1090"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1095"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1100"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1105"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1110"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1115"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1120"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1125"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1130"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1135"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1140"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1145"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1150"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1155"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1160"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1165"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1170"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1175"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1180"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1185"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1190"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1195"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1200"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1205"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1210"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1215"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1220"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1225"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1230"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1235"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1240"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1245"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1250"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1255"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1260"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1265"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1270"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1275"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1280"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1285"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1290"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1295"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1300"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1305"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1310"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1315"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1320"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1325"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1330"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1335"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1340"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1345"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1350"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1355"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1360"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1365"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1370"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1375"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1380"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1385"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1390"/>
+        <source>poi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="981"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="986"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="991"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="996"/>
+        <source>bank</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1011"/>
+        <source>church</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1026"/>
+        <source>mine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1026"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1036"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1041"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1156"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1191"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1201"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1231"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1236"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1351"/>
+        <source>landmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1036"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1041"/>
+        <source>tower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1000"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1045"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1050"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1055"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1060"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1065"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1070"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1075"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1080"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1085"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1100"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1105"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1110"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1115"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1120"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1125"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1130"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1185"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1265"/>
+        <source>transport</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1331"/>
+        <source>golf course</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1574"/>
+        <source>dreadlocks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1579"/>
+        <source>female1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1584"/>
+        <source>female2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1589"/>
+        <source>female3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1594"/>
+        <source>goatee</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1599"/>
+        <source>kung-fu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1604"/>
+        <source>pig</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1609"/>
+        <source>pirate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1614"/>
+        <source>ranger</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1619"/>
+        <source>spike</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1624"/>
+        <source>sumo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1629"/>
+        <source>blonde</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1634"/>
+        <source>clown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1639"/>
+        <source>glasses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1644"/>
+        <source>panda</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1767"/>
+        <source>More...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="541"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="546"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="551"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="556"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="561"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="566"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="571"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="576"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="581"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="586"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="591"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="596"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="601"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="606"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="611"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="616"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="621"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="626"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="631"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="636"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="641"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="646"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1055"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1090"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1095"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1100"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1105"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1135"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1185"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1230"/>
+        <source>marine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="82"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="87"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="92"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="97"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="102"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="107"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="112"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="117"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="122"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="127"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="132"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="137"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="157"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="167"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="202"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="212"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="442"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="452"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="457"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="467"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="472"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="477"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="482"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="487"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="492"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="502"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="512"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="527"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="537"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="542"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="552"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="557"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="562"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="567"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="572"/>
         <location filename="../helpers/CWptIconManager.cpp" line="577"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="582"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="587"/>
         <location filename="../helpers/CWptIconManager.cpp" line="592"/>
         <location filename="../helpers/CWptIconManager.cpp" line="597"/>
         <location filename="../helpers/CWptIconManager.cpp" line="602"/>
         <location filename="../helpers/CWptIconManager.cpp" line="607"/>
         <location filename="../helpers/CWptIconManager.cpp" line="612"/>
         <location filename="../helpers/CWptIconManager.cpp" line="617"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="622"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="627"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="632"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="637"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="642"/>
-        <source>navaid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="578"/>
-        <source>amber</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="583"/>
-        <source>black</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="603"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="623"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="633"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="638"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="643"/>
-        <source>white</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="608"/>
-        <source>orange</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="628"/>
-        <source>violet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="648"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="653"/>
         <location filename="../helpers/CWptIconManager.cpp" line="658"/>
         <location filename="../helpers/CWptIconManager.cpp" line="663"/>
         <location filename="../helpers/CWptIconManager.cpp" line="668"/>
         <location filename="../helpers/CWptIconManager.cpp" line="673"/>
         <location filename="../helpers/CWptIconManager.cpp" line="678"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="684"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="689"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="694"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="699"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="704"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="709"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="714"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="719"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="724"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="729"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="734"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="739"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="744"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="749"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="780"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="785"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="790"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="795"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="800"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="805"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="810"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="815"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="820"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="825"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="830"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="835"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="840"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="845"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="916"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="981"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1001"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1006"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1011"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1016"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1021"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1026"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1031"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1036"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1041"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1046"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1051"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1056"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1061"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1081"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1086"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1091"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1111"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1126"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1131"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1136"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1141"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1146"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1151"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1156"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1161"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1166"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1171"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1176"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1181"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1186"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1191"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1196"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1201"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1206"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1211"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1216"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1221"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1226"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1231"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1236"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1241"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1246"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1251"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1256"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1261"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1266"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1271"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1276"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1281"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1286"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1291"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1301"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1306"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1311"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1316"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1326"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1331"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1336"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1341"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1346"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1351"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1356"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1361"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1366"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1371"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1376"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1381"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1386"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1391"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1397"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1402"/>
+        <source>etrex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="477"/>
+        <source>atv</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="477"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="482"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="487"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="492"/>
+        <source>vehicle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="482"/>
+        <source>car</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="487"/>
+        <source>truck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="492"/>
+        <source>wrecker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="497"/>
+        <source>water hydrant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="502"/>
+        <source>mile marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="507"/>
+        <source>tracback point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="516"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1533"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1538"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1543"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1548"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1553"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1558"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1563"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1568"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1573"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1578"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1583"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1588"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1593"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1598"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1603"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1608"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1613"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1618"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1623"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1628"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1633"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1638"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1643"/>
+        <source>contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="552"/>
+        <source>bell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="557"/>
+        <source>horn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="562"/>
+        <source>light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="567"/>
+        <source>skull and crossbones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="572"/>
+        <source>buoy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="577"/>
+        <source>radio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="622"/>
+        <source>reef</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="627"/>
+        <source>weed bed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="632"/>
+        <source>dropoff</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="637"/>
+        <source>dock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="642"/>
+        <source>bait and tackle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="647"/>
+        <source>stump</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="652"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="657"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="662"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="667"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="672"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="677"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1035"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1040"/>
+        <source>aerial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="668"/>
+        <source>glider area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="673"/>
+        <source>ultralight area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="678"/>
+        <source>parachute area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../helpers/CWptIconManager.cpp" line="683"/>
         <location filename="../helpers/CWptIconManager.cpp" line="688"/>
         <location filename="../helpers/CWptIconManager.cpp" line="693"/>
@@ -8936,752 +9715,643 @@ line %2, column %3:
         <location filename="../helpers/CWptIconManager.cpp" line="763"/>
         <location filename="../helpers/CWptIconManager.cpp" line="768"/>
         <location filename="../helpers/CWptIconManager.cpp" line="773"/>
-        <source>cycling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="649"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="654"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="659"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="664"/>
-        <source>category</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="669"/>
-        <source>danger</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="674"/>
-        <source>first aid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="679"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="909"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="914"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="919"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="924"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="929"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="964"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1084"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1089"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1094"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1099"/>
-        <source>food</source>
+        <location filename="../helpers/CWptIconManager.cpp" line="1320"/>
+        <source>hunting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="684"/>
-        <source>generic</source>
+        <source>big game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="689"/>
-        <source>hors category</source>
+        <source>blind</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="694"/>
-        <source>left</source>
+        <source>blood trail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="699"/>
-        <source>right</source>
+        <source>cover</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="704"/>
-        <source>sprint</source>
+        <source>covey</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="709"/>
-        <source>straight</source>
+        <source>food source</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="714"/>
-        <source>summit</source>
+        <source>furbearer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="719"/>
-        <source>valley</source>
+        <source>small game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="724"/>
-        <source>water</source>
+        <source>animal tracks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="729"/>
-        <source>left fork</source>
+        <source>treed quarry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="734"/>
-        <source>right fork</source>
+        <source>tree stand</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="739"/>
-        <source>middle fork</source>
+        <source>upland game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="744"/>
-        <source>slight left</source>
+        <source>waterfowl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="749"/>
-        <source>sharp left</source>
+        <source>water source</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="754"/>
-        <source>slight right</source>
+        <source>dog running</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="759"/>
-        <source>sharp right</source>
+        <source>dog pointing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="764"/>
-        <source>uturn</source>
+        <source>dog treed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="769"/>
-        <source>start</source>
+        <source>dog sitting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../helpers/CWptIconManager.cpp" line="774"/>
-        <source>end</source>
+        <source>dog unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="778"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="783"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="788"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="793"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="798"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="803"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="808"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="813"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="818"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="823"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="828"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="833"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="838"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="843"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="848"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="853"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="858"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="863"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="868"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="873"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="878"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="883"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="888"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="893"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="898"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="903"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="908"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="913"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="918"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="923"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="928"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="933"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="938"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="943"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="948"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="953"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="958"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="963"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="968"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="973"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="978"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="983"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="988"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="993"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="998"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1003"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1008"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1013"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1018"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1023"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1028"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1033"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1038"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1043"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1048"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1053"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1058"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1063"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1068"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1073"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1078"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1083"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1088"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1093"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1098"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1103"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1108"/>
-        <source>poi</source>
+        <location filename="../helpers/CWptIconManager.cpp" line="1001"/>
+        <source>bridge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="779"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="784"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="789"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="794"/>
-        <source>bank</source>
+        <location filename="../helpers/CWptIconManager.cpp" line="1016"/>
+        <source>cemetery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="799"/>
-        <source>church</source>
+        <location filename="../helpers/CWptIconManager.cpp" line="1021"/>
+        <source>military</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="804"/>
-        <source>mine</source>
+        <location filename="../helpers/CWptIconManager.cpp" line="1031"/>
+        <source>oil field</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="804"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="809"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="814"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="904"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="934"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="944"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="974"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="979"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1069"/>
-        <source>landmark</source>
+        <location filename="../helpers/CWptIconManager.cpp" line="1046"/>
+        <source>toll booth</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="809"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="814"/>
-        <source>tower</source>
+        <location filename="../helpers/CWptIconManager.cpp" line="1051"/>
+        <source>tunnel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="818"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="823"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="828"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="833"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="848"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="853"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="858"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="863"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="868"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="873"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="878"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="928"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1008"/>
-        <source>transport</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1049"/>
-        <source>golf course</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1358"/>
-        <source>More...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="526"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="531"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="536"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="541"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="546"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="551"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="556"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="561"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="566"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="571"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="818"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="838"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="843"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="848"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="853"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="883"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="928"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="973"/>
-        <source>marine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="819"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1056"/>
         <source>gas station</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="824"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="829"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1061"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1066"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1071"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1076"/>
         <source>parking</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="834"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1081"/>
         <source>car rental</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="839"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1086"/>
+        <source>truck stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1091"/>
         <source>boat ramp</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="844"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1096"/>
         <source>marina</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="849"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1101"/>
         <source>ferry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="854"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1106"/>
         <source>seaplane</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="859"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1111"/>
         <source>transportation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="864"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1116"/>
         <source>funicular</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="869"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1121"/>
         <source>railway</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="874"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1126"/>
         <source>airport</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="879"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1131"/>
         <source>heliport</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="883"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="898"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="913"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="938"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1008"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1135"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1150"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1170"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1195"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1265"/>
         <source>outdoors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="883"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="888"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="893"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="898"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1135"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1140"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1145"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1150"/>
         <source>accommodation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="884"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1136"/>
         <source>campground</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="889"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1141"/>
         <source>lodge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="894"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1146"/>
         <source>lodging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="899"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1151"/>
         <source>rv park</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="904"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1156"/>
         <source>dam</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="909"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1161"/>
+        <source>levee</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1166"/>
         <source>bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="914"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1171"/>
         <source>drinking water</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="919"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1176"/>
         <source>fast food</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="924"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1181"/>
         <source>pizza</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="929"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1186"/>
         <source>restaurant</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="934"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1191"/>
         <source>amusement park</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="939"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1196"/>
         <source>beach</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="944"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1201"/>
         <source>ghost town</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="949"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1206"/>
         <source>information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="954"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1211"/>
         <source>live theatre</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="959"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1216"/>
         <source>museum</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="964"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1221"/>
         <source>picnic area</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="969"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="974"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1226"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1231"/>
         <source>scenic area</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="979"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1236"/>
         <source>zoo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="984"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1241"/>
         <source>city hall</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="989"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1246"/>
         <source>library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="994"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1251"/>
         <source>movie theater</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="999"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1256"/>
         <source>police station</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="999"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1024"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1029"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1256"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1286"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1291"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1296"/>
         <source>help</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1004"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1261"/>
         <source>post office</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1009"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1266"/>
         <source>restroom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1014"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1271"/>
+        <source>shower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1276"/>
         <source>scales</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1014"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1276"/>
         <source>court</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1019"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1281"/>
         <source>telephone</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1024"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1286"/>
         <source>medical facility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1024"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1286"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1296"/>
         <source>hospital</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1029"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1291"/>
         <source>pharmacy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1034"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1296"/>
+        <source>hospital euro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1301"/>
         <source>school</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1038"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1043"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1048"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1053"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1058"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1063"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1068"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1073"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1305"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1310"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1315"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1320"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1325"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1330"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1335"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1340"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1345"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1350"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1355"/>
         <source>sport</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1039"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1306"/>
         <source>bowling</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1044"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1311"/>
+        <source>fishing area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1316"/>
+        <source>fishing hot sport facility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1321"/>
+        <source>hunting area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1326"/>
         <source>fitness center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1044"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1326"/>
         <source>gym</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1054"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1336"/>
         <source>ice skating</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1059"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1341"/>
         <source>skiing area</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1064"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1346"/>
         <source>ski resort</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1069"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1074"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1351"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1356"/>
         <source>stadium</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1079"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1361"/>
         <source>car repair</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1084"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1366"/>
         <source>convenience store</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1089"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1371"/>
         <source>department store</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1094"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1376"/>
         <source>shopping center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1094"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1376"/>
         <source>supermarket</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1099"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1381"/>
         <source>winery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1099"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1381"/>
         <source>bottle shop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1104"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1386"/>
         <source>forest</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1104"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1109"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1386"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1391"/>
         <source>land</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1109"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1391"/>
         <source>park</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1113"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1118"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1123"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1128"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1133"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1138"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1143"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1148"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1153"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1158"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1163"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1168"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1173"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1179"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1184"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1189"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1194"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1199"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1204"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1209"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1214"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1219"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1224"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1229"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1234"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1396"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1397"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1401"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1406"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1411"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1416"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1421"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1426"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1431"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1436"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1441"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1446"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1451"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1456"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1461"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1466"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1472"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1477"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1482"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1487"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1492"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1497"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1502"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1507"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1512"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1517"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1522"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1527"/>
         <source>geocache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1114"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1180"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1402"/>
+        <source>geocache found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helpers/CWptIconManager.cpp" line="1412"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1473"/>
         <source>traditional cache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1119"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1185"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1417"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1478"/>
         <source>multi cache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1124"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1190"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1422"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1483"/>
         <source>unknown cache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1129"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1195"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1427"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1488"/>
         <source>wherigo cache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1134"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1200"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1432"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1493"/>
         <source>event cache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1139"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1205"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1437"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1498"/>
         <source>mega-event cache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1144"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1210"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1442"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1503"/>
         <source>giga-event cache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1149"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1215"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1447"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1508"/>
         <source>cache in trash out event</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1154"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1220"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1452"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1513"/>
         <source>earthcache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1159"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1225"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1457"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1518"/>
         <source>letterbox cache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1164"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1230"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1462"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1523"/>
         <source>virtual cache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1169"/>
-        <location filename="../helpers/CWptIconManager.cpp" line="1235"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1467"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1528"/>
         <source>webcam cache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1174"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1407"/>
         <source>puzzle cache</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1252"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1661"/>
         <source>external</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpers/CWptIconManager.cpp" line="1365"/>
+        <location filename="../helpers/CWptIconManager.cpp" line="1774"/>
         <source>Clear List</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15117,19 +15787,19 @@ Tip:
         <translation type="unfinished">Rozdělit stopu...</translation>
     </message>
     <message>
-        <location filename="../plot/IPlot.cpp" line="509"/>
+        <location filename="../plot/IPlot.cpp" line="521"/>
         <source>Hold CTRL key for vertical zoom, only.
 Hold ALT key for horizontal zoom, only.</source>
         <translation>Pro (pouze) svislé přiblížení podržte klávesu Ctrl.
 Pro (pouze) vodorovné přiblížení podržte klávesu Alt.</translation>
     </message>
     <message>
-        <location filename="../plot/IPlot.cpp" line="654"/>
+        <location filename="../plot/IPlot.cpp" line="672"/>
         <source>No or bad data.</source>
         <translation>Žádná nebo špatná data.</translation>
     </message>
     <message>
-        <location filename="../plot/IPlot.cpp" line="1266"/>
+        <location filename="../plot/IPlot.cpp" line="1284"/>
         <source>Select output file</source>
         <translation>Vybrat výstupní soubor</translation>
     </message>
