@@ -1,4 +1,4 @@
-V1.XX.X
+V1.18.2
 [QMS-672] Fix track point timestamps to QDateTime UTC conversion
 [QMS-841] Fix waypoint names to match the Garmin symbols
 [QMS-843] Add waypoint icons
