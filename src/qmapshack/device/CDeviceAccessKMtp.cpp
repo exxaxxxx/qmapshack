@@ -57,7 +57,7 @@ bool CDeviceAccessKMtp::readFileFromStorage(const QString& path, QFile& file) {
   if (file.isOpen()) {
     file.seek(0);
   } else {
-    file.open(QIODevice::WriteOnly);
+    openFileCheckSuccess(QIODevice::WriteOnly, file);
   }
 
   const QString& _path = dir.filePath(path);
@@ -78,7 +78,7 @@ bool CDeviceAccessKMtp::sendFileToStorage(const QString& path, QFile& file) {
   if (file.isOpen()) {
     file.seek(0);
   } else {
-    file.open(QIODevice::ReadOnly);
+    openFileCheckSuccess(QIODevice::ReadOnly, file);
   }
 
   const QString& _path = dir.filePath(path);
