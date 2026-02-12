@@ -1703,7 +1703,6 @@ CWptIconManager::icon_t& CWptIconManager::findIconByName(const QString& name, bo
     }
   }
   ok = false;
-  qDebug() << name;
   return wptIcons.front();
 }
 
